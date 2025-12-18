@@ -26,14 +26,15 @@ Full-stack development with a focus on machine learning integration.
 
 ## 🚀 Projects
 
+
+**[recs- a lightweight social media platform](https://github.com/rayanhidri/recs)**  
+A lightweight social platform where people post recommendations (“recs”) they genuinely like — music, videos, books, podcasts, films, articles, fashion, and more
+
 **[Premier League Match Predictor](https://github.com/rayanhidri/Premier-League-ML-Prediction)**  
 ML pipeline that predicts Premier League match outcomes with 53% accuracy. Built end-to-end from data collection to model deployment. Learned feature engineering, model evaluation, and why football is beautifully unpredictable.
 
 **[Tetris AI Battle](https://tetris-ai-battle.vercel.app/)**  
 AI agent built to dominate Tetris. Hybrid architecture: React frontend, FastAPI backend, PyTorch + Stable-Baselines3 for training. Currently still optimizing.
-
-**[Hand Gesture Recognition](https://github.com/rayanhidri/hand-movement-recognition)**  
-Real-time computer vision with MediaPipe for gesture detection and control. Exploring human-computer interaction through CV.
 
 ---
 
