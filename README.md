@@ -30,7 +30,7 @@ Full-stack development with a focus on machine learning integration.
 **[recs- a lightweight social media platform](https://github.com/rayanhidri/recs)**  
 A lightweight social platform where people post recommendations (“recs”) they genuinely like — music, videos, books, podcasts, films, articles, fashion, and more
 
-**[Premier League Match Predictor](https://github.com/rayanhidri/Premier-League-ML-Prediction)**  
+**[Premier League Match Predictor]([https://github.com/rayanhidri/Premier-League-ML-Prediction](https://github.com/rayanhidri/soccer-match-predictor-PL))**  
 ML pipeline that predicts Premier League match outcomes with 53% accuracy. Built end-to-end from data collection to model deployment. Learned feature engineering, model evaluation, and why football is beautifully unpredictable.
 
 **[Tetris AI Battle](https://tetris-ai-battle.vercel.app/)**  
